@@ -1,0 +1,3 @@
+source "C:/Users/Felix/eclipse/esp-idf-v4.3.1/components/bootloader/Kconfig.projbuild"
+source "C:/Users/Felix/eclipse/esp-idf-v4.3.1/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/Felix/eclipse/esp-idf-v4.3.1/components/partition_table/Kconfig.projbuild"
